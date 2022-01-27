@@ -1,5 +1,6 @@
 # <h1 align="center"> USADOS GAMES
 
+ 
 **UsadosGamer - Projeto para matéria Processos de Software**
 Plataforma para venda de periféricos e hardware gamer usados. De gamers, para gamers.
 
@@ -10,4 +11,5 @@ Plataforma para venda de periféricos e hardware gamer usados. De gamers, para g
  
  Protótipo:
 
-![UsadosGamer](https://user-images.githubusercontent.com/65771228/145478975-2e90c980-7805-452e-a2da-7ab9820b573d.gif)
+ ![UsadosGamer](https://user-images.githubusercontent.com/65771228/145478975-2e90c980-7805-452e-a2da-7ab9820b573d.gif)
+
