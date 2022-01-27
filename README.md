@@ -1,4 +1,4 @@
-# UsadosGamers
+# <h1 align="center"> USADOS GAMES
 
 **UsadosGamer - Projeto para matéria Processos de Software**
 Plataforma para venda de periféricos e hardware gamer usados. De gamers, para gamers.
